@@ -1,0 +1,6 @@
+ws-mapping-url: /ws/*
+expose-ws-bean-name: userService
+expose-addr: /user
+
+
+expose-ws-url: http://localhost:8080/ws/user?wsdl
